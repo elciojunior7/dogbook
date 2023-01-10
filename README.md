@@ -2,6 +2,21 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.19.
 
+🧰 It contains some dependencies as:
+
+- JWT-decode
+- font-awesome
+- bootstrap
+- RxJS
+
+💡 This project goal is to test some development strategies as:
+
+- Reative Programming (using not only subscribe method but also operators, pipe Async and BehaviorSubject)
+- Route Guard (and its types)
+- FORMS (Template and Reative)
+- Interceptor
+- some Best Pratices
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
